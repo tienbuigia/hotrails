@@ -21,5 +21,6 @@ group :test do
   gem 'selenium-webdriver'
 end
 gem 'dartsass-rails', '~> 0.5.0'
+gem 'devise', '~> 4.9'
 gem 'redis', '~> 5.2'
 gem 'simple_form', '~> 5.3'
